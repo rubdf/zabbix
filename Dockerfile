@@ -1,1 +1,1 @@
-FROM zabbix/zabbix-web-apache-mysql
+FROM zabbix/zabbix-web-apache-mysql:latest
